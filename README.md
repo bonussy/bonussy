@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 4th year computer engineering student at Chulalongkorn University.</p>
+<p align="left">I'm a 3rd year computer engineering student at Chulalongkorn University.</p>
 
 ###
 
