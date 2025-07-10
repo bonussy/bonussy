@@ -13,7 +13,11 @@
 <p align="left">
   🌱 I'm currently interesting and learning the data field — especially data science, visualization, and engineering — and I'm excited by how data can drive real-world impact through insights and innovation.<br>
   💻 I've had some experience working on development projects across the stack — from frontend and backend to full-stack web apps. Among them, I found myself enjoying frontend the most, though I'm also comfortable working with other parts.<br>
-  📩 How to reach me: **poohmon.bonus@gmail.com**</p>
+  📩 How to reach me: poohmon.bonus@gmail.com</p>
+
+  - 🌱 I’m currently learning **the data field — especially data science, visualization, and engineering — and I'm excited by how data can drive real-world impact through insights and innovation.**
+
+- 📫 How to reach me **poohmon.bonus@gmail.com**
 
 ###
 
